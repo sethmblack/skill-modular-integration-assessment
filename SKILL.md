@@ -1,12 +1,10 @@
 ---
 name: modular-integration-assessment
-description: Determine whether a market or product category favors integrated or modular
-  architectures, and predict architectural evolution for build-vs-buy and platform
-  strategy decisions.
+description: Determine whether a market or product category favors integrated or modular architectures, and predict architectural evolution for build-vs-buy and platform strategy decisions.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - modular-integration-assessment
 - structure
