@@ -4,7 +4,8 @@ description: Determine whether a market or product category favors integrated or
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4519
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - modular-integration-assessment
 - structure
